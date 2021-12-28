@@ -7,3 +7,12 @@ Maxamize button is binded to **root.destroy()** _Destroys the Canvas TK and ther
 Minimize is binded to **root.state('withdrawn')** then pauses for 0.2 seconds (Changeable) then back to **root.state('normal')**. _To my knowledge, since the Canvas / TK window is root.overrideredirect(True), you can call **root.deiconfiy()**._
 
 Do what you will with this, its just a small project. May add LC / BLC detectability and threading for different UI's.
+
+<details open>
+<summary>Future Plans</summary>
+<br>
+- Add LC / BLC / MC 1.8.9 / 1.7.10 detection + different UI's.
+- Add loading screen instead of fading in to exactly "Minecraft not found".
+- Possible recode in C++.
+- **ACTUAL** minimize button workaround.
+</details>
