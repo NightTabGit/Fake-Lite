@@ -11,6 +11,7 @@ Do what you will with this, its just a small project. May add LC / BLC detectabi
 <details open>
 <summary>Future Plans</summary>
 <br>
+
 - Add LC / BLC / MC 1.8.9 / 1.7.10 detection + different UI's.
   
 - Add loading screen instead of fading in to exactly "Minecraft not found".
