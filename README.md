@@ -1,6 +1,6 @@
 # FakeLite
 
-**NEW - ** "PortableFakeLite.py downloads all required images from this github, to a randomly generated folder in TEMP. This means this file, can be ran **WITHOUT** needing to download the images.
+**NEW -** "PortableFakeLite.py" downloads all required images from this github, to a randomly generated folder in TEMP. This means this file, can be ran **WITHOUT** needing to download the images.
 
 A fake vape lite GUI in python3. (Only an image with working butons) (No animation).
 
